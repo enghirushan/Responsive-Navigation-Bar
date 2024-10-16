@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: poppins;
+}
+
+.header {
+    background-color: rgb(23, 0, 72);
+}
+
+.logo, #list a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+ #Menu, #close, #pp{
+    fill: hsl(49, 48%, 43%);
+    height: 30px;
+    width: 130px;
+}
+
+#openmenu,#closemenu{
+    display: none;
+}
+
+
